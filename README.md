@@ -1,6 +1,6 @@
 # merriam-webster
 
-CLI utility to query Merriam Webster dictionary and get pronounciation and Short definition of given word.
+CLI utility to query Merriam Webster dictionary and get pronounciation and short definition of given word.
 
 Usage:
 
